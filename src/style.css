@@ -1,1 +1,14 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  color: white;
+}
+.main-panel {
+  background-color: #017a86;
+}
+.secondary-panel {
+  background-color: lightgray;
+}
+img {
+  max-width: 100%;
+}
